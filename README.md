@@ -30,5 +30,5 @@ To run this application locally, follow these steps:
 
 8. **Run SQL Script:**   
  ```bash
-   source path/to/ppost-database.sql;
+      source path/to/ppost-database.sql;
 
