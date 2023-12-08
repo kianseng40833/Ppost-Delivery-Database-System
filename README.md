@@ -14,17 +14,21 @@ To run this application locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/ppost-database.git
+      git clone https://github.com/your-username/ppost-database.git
 
 2. **Access MySQL Client:**
-  mysql -u your-username -p
+   ```bash
+     mysql -u your-username -p
 
-3. **Create Database:**
-  CREATE DATABASE Ppost;
+4. **Create Database:**
+   ```bash
+     CREATE DATABASE Ppost;
 
-4. **Use Database:**
-  USE Ppost;
+6. **Use Database:**
+   ```bash
+     USE Ppost;
 
-5. **Run SQL Script:**
+8. **Run SQL Script:**   
+ ```bash
    source path/to/ppost-database.sql;
 
